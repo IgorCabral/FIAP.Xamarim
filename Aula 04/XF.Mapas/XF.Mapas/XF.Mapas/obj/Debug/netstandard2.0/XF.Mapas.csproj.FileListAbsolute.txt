@@ -10,3 +10,17 @@ c:\users\logonrmlocal\source\repos\XF.Mapas\XF.Mapas\XF.Mapas\obj\Debug\netstand
 c:\users\logonrmlocal\source\repos\XF.Mapas\XF.Mapas\XF.Mapas\obj\Debug\netstandard2.0\XamlC.stamp
 c:\users\logonrmlocal\source\repos\XF.Mapas\XF.Mapas\XF.Mapas\obj\Debug\netstandard2.0\XF.Mapas.dll
 c:\users\logonrmlocal\source\repos\XF.Mapas\XF.Mapas\XF.Mapas\obj\Debug\netstandard2.0\XF.Mapas.pdb
+C:\Users\logonrmlocal\Documents\FIAP.Xamarim\Aula 04\XF.Mapas\XF.Mapas\XF.Mapas\bin\Debug\netstandard2.0\XF.Mapas.deps.json
+C:\Users\logonrmlocal\Documents\FIAP.Xamarim\Aula 04\XF.Mapas\XF.Mapas\XF.Mapas\bin\Debug\netstandard2.0\XF.Mapas.dll
+C:\Users\logonrmlocal\Documents\FIAP.Xamarim\Aula 04\XF.Mapas\XF.Mapas\XF.Mapas\bin\Debug\netstandard2.0\XF.Mapas.pdb
+C:\Users\logonrmlocal\Documents\FIAP.Xamarim\Aula 04\XF.Mapas\XF.Mapas\XF.Mapas\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\logonrmlocal\Documents\FIAP.Xamarim\Aula 04\XF.Mapas\XF.Mapas\XF.Mapas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\logonrmlocal\Documents\FIAP.Xamarim\Aula 04\XF.Mapas\XF.Mapas\XF.Mapas\obj\Debug\netstandard2.0\View\ControleView.xaml.g.cs
+C:\Users\logonrmlocal\Documents\FIAP.Xamarim\Aula 04\XF.Mapas\XF.Mapas\XF.Mapas\obj\Debug\netstandard2.0\View\MapaView.xaml.g.cs
+C:\Users\logonrmlocal\Documents\FIAP.Xamarim\Aula 04\XF.Mapas\XF.Mapas\XF.Mapas\obj\Debug\netstandard2.0\XF.Mapas.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Documents\FIAP.Xamarim\Aula 04\XF.Mapas\XF.Mapas\XF.Mapas\obj\Debug\netstandard2.0\XF.Mapas.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\Documents\FIAP.Xamarim\Aula 04\XF.Mapas\XF.Mapas\XF.Mapas\obj\Debug\netstandard2.0\XF.Mapas.AssemblyInfo.cs
+C:\Users\logonrmlocal\Documents\FIAP.Xamarim\Aula 04\XF.Mapas\XF.Mapas\XF.Mapas\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\logonrmlocal\Documents\FIAP.Xamarim\Aula 04\XF.Mapas\XF.Mapas\XF.Mapas\obj\Debug\netstandard2.0\XF.Mapas.dll
+C:\Users\logonrmlocal\Documents\FIAP.Xamarim\Aula 04\XF.Mapas\XF.Mapas\XF.Mapas\obj\Debug\netstandard2.0\XF.Mapas.pdb
+C:\Users\logonrmlocal\Documents\FIAP.Xamarim\Aula 04\XF.Mapas\XF.Mapas\XF.Mapas\obj\Debug\netstandard2.0\View\LocalizacaoView.xaml.g.cs
