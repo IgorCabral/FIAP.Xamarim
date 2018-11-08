@@ -1,0 +1,12 @@
+c:\users\logonrmlocal\source\repos\XF.Mapas\XF.Mapas\XF.Mapas\bin\Debug\netstandard2.0\XF.Mapas.deps.json
+c:\users\logonrmlocal\source\repos\XF.Mapas\XF.Mapas\XF.Mapas\bin\Debug\netstandard2.0\XF.Mapas.dll
+c:\users\logonrmlocal\source\repos\XF.Mapas\XF.Mapas\XF.Mapas\bin\Debug\netstandard2.0\XF.Mapas.pdb
+c:\users\logonrmlocal\source\repos\XF.Mapas\XF.Mapas\XF.Mapas\obj\Debug\netstandard2.0\App.xaml.g.cs
+c:\users\logonrmlocal\source\repos\XF.Mapas\XF.Mapas\XF.Mapas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+c:\users\logonrmlocal\source\repos\XF.Mapas\XF.Mapas\XF.Mapas\obj\Debug\netstandard2.0\View\MapaView.xaml.g.cs
+c:\users\logonrmlocal\source\repos\XF.Mapas\XF.Mapas\XF.Mapas\obj\Debug\netstandard2.0\XF.Mapas.csproj.CoreCompileInputs.cache
+c:\users\logonrmlocal\source\repos\XF.Mapas\XF.Mapas\XF.Mapas\obj\Debug\netstandard2.0\XF.Mapas.AssemblyInfoInputs.cache
+c:\users\logonrmlocal\source\repos\XF.Mapas\XF.Mapas\XF.Mapas\obj\Debug\netstandard2.0\XF.Mapas.AssemblyInfo.cs
+c:\users\logonrmlocal\source\repos\XF.Mapas\XF.Mapas\XF.Mapas\obj\Debug\netstandard2.0\XamlC.stamp
+c:\users\logonrmlocal\source\repos\XF.Mapas\XF.Mapas\XF.Mapas\obj\Debug\netstandard2.0\XF.Mapas.dll
+c:\users\logonrmlocal\source\repos\XF.Mapas\XF.Mapas\XF.Mapas\obj\Debug\netstandard2.0\XF.Mapas.pdb
