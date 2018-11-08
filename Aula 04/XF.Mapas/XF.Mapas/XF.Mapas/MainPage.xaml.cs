@@ -28,5 +28,10 @@ namespace XF.Mapas
         {
             Navigation.PushAsync(new View.LocalizacaoView());
         }
+
+        private void OnMarcar_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new View.MarcarView());
+        }
     }
 }

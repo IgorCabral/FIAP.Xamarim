@@ -207,6 +207,7 @@ C:\Users\logonrmlocal\Documents\FIAP.Xamarim\Aula 04\XF.Mapas\XF.Mapas\XF.Mapas.
 C:\Users\logonrmlocal\Documents\FIAP.Xamarim\Aula 04\XF.Mapas\XF.Mapas\XF.Mapas.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
 C:\Users\logonrmlocal\Documents\FIAP.Xamarim\Aula 04\XF.Mapas\XF.Mapas\XF.Mapas.Android\obj\Debug\android\assets\XF.Mapas.pdb
 C:\Users\logonrmlocal\Documents\FIAP.Xamarim\Aula 04\XF.Mapas\XF.Mapas\XF.Mapas.Android\bin\Debug\XF.Mapas.Android.dll
+C:\Users\logonrmlocal\Documents\FIAP.Xamarim\Aula 04\XF.Mapas\XF.Mapas\XF.Mapas.Android\obj\Debug\linksrc\XF.Mapas.pdb
 C:\Users\logonrmlocal\Documents\FIAP.Xamarim\Aula 04\XF.Mapas\XF.Mapas\XF.Mapas.Android\obj\Debug\linksrc\XF.Mapas.Android.dll.mdb
 C:\Users\logonrmlocal\Documents\FIAP.Xamarim\Aula 04\XF.Mapas\XF.Mapas\XF.Mapas.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
 C:\Users\logonrmlocal\Documents\FIAP.Xamarim\Aula 04\XF.Mapas\XF.Mapas\XF.Mapas.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb

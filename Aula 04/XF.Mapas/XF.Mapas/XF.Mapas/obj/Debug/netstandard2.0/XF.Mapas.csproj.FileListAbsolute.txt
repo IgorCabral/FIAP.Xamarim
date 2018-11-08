@@ -25,3 +25,4 @@ C:\Users\logonrmlocal\Documents\FIAP.Xamarim\Aula 04\XF.Mapas\XF.Mapas\XF.Mapas\
 C:\Users\logonrmlocal\Documents\FIAP.Xamarim\Aula 04\XF.Mapas\XF.Mapas\XF.Mapas\obj\Debug\netstandard2.0\XF.Mapas.pdb
 C:\Users\logonrmlocal\Documents\FIAP.Xamarim\Aula 04\XF.Mapas\XF.Mapas\XF.Mapas\obj\Debug\netstandard2.0\View\LocalizacaoView.xaml.g.cs
 C:\Users\logonrmlocal\Documents\FIAP.Xamarim\Aula 04\XF.Mapas\XF.Mapas\XF.Mapas\obj\Debug\netstandard2.0\XF.Mapas.csprojAssemblyReference.cache
+C:\Users\logonrmlocal\Documents\FIAP.Xamarim\Aula 04\XF.Mapas\XF.Mapas\XF.Mapas\obj\Debug\netstandard2.0\View\MarcarView.xaml.g.cs
