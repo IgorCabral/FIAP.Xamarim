@@ -1,0 +1,16 @@
+C:\Users\logonrmlocal\Documents\XF.LocalDB\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\XF.LocalDB.deps.json
+C:\Users\logonrmlocal\Documents\XF.LocalDB\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\XF.LocalDB.dll
+C:\Users\logonrmlocal\Documents\XF.LocalDB\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\XF.LocalDB.pdb
+C:\Users\logonrmlocal\Documents\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\logonrmlocal\Documents\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\View\Login\LoginView.xaml.g.cs
+C:\Users\logonrmlocal\Documents\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\View\Professor\MainPage.xaml.g.cs
+C:\Users\logonrmlocal\Documents\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\View\Professor\NovoProfessorView.xaml.g.cs
+C:\Users\logonrmlocal\Documents\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Documents\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\Documents\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.AssemblyInfo.cs
+C:\Users\logonrmlocal\Documents\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\logonrmlocal\Documents\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.dll
+C:\Users\logonrmlocal\Documents\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.pdb
+C:\Users\logonrmlocal\Documents\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.csprojAssemblyReference.cache
+C:\Users\logonrmlocal\Documents\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\View\Aluno\MainPage.xaml.g.cs
+C:\Users\logonrmlocal\Documents\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\View\Aluno\NovoAlunoView.xaml.g.cs
