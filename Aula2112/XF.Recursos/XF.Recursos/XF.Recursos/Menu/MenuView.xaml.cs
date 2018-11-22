@@ -24,7 +24,7 @@ namespace XF.Recursos.Menu
             menuItems.Add(new OpcoesMenu
             {
                 Descricao = "Home",
-                Icone = "Home.png",
+                Icone = "logofiap.png",
                 TargetType = typeof(HomeView)
             });
             menuItems.Add(new OpcoesMenu
